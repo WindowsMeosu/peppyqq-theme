@@ -1,0 +1,4 @@
+markdown: GFM
+remote_theme: windowsmeosu/peppyqq
+plugins:
+- jekyll-remote-theme
