@@ -3,3 +3,4 @@ remote_theme: https://github.com/WindowsMeosu/peppyqq-for-peppypedia
 plugins:
 - jekyll-remote-theme
 regeneration: true
+ 
