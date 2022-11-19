@@ -1,5 +1,5 @@
 markdown: GFM
-remote_theme: windowsmeosu/peppyqq-for-peppypedia
+remote_theme: https://github.com/WindowsMeosu/peppyqq-for-peppypedia
 plugins:
 - jekyll-remote-theme
 regeneration: true
